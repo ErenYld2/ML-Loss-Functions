@@ -1,0 +1,21 @@
+Dataları aldığım web sayfaları.
+
+Titanic Dataset - https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+Breast Cancer Dataset - https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+
+Spam Dataset - https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+
+IMDB Dataset - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+Fashion-Mnist Datasets - https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
+CIFAR-10 Datasets - https://www.cs.toronto.edu/~kriz/cifar.html
+
+California Housing Dataset - https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
+Wine Quality Dataset - https://archive.ics.uci.edu/dataset/186/wine+quality
+
+FordA Dataset - https://www.kaggle.com/datasets/computernetwork/forda-data-set
+
+UrbanSound8K Dataset - https://www.kaggle.com/datasets/chrisfilo/urbansound8k
